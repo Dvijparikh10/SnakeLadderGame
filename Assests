@@ -1,0 +1,9 @@
+SnakeladderGame/
+├── snake_ladder.py
+├── README.md
+└── assets/
+    ├── board.png
+    ├── dice.png
+    └── sounds/
+        ├── win.mp3
+        └── lose.mp3
